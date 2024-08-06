@@ -164,7 +164,4 @@ sleep(2)
 typing = driver.find_element(By.XPATH,'//*[@id="finish"]')
 typing.click()
 sleep(5)
-
-
-
-
+kkkkkkkk
